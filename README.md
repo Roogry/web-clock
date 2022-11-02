@@ -22,4 +22,5 @@ Loader
 Plugin
  - **HtmlWebpackPlugin** : for bundle html template with js bundle and give the result in ./dist
  - **webpack-dev-server** : auto rebuild webpack if there is any changed in project by run script npm run start-dev
+ - **webpack-merge** : separate webpack config into dev and prod but with default config
 
