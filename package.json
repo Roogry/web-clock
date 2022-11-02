@@ -1,0 +1,23 @@
+{
+  "name": "web-clock",
+  "version": "1.0.0",
+  "description": "trying webpack on clock dan date  project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roogry/web-clock.git"
+  },
+  "keywords": [
+    "clock",
+    "webpack"
+  ],
+  "author": "Sanchia Jodie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roogry/web-clock/issues"
+  },
+  "homepage": "https://github.com/Roogry/web-clock#readme"
+}
