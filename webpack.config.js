@@ -8,6 +8,15 @@ module.exports = {
         filename: 'bundle.js'
     },
     mode: 'production',
+    /* disable webpack-dev-server warning overlay */
+    devServer: {
+        client: {
+            overlay: {
+                errors: true,
+                warnings: false,
+            },
+        },
+    },
     module: {
         rules: [
             /* style and css loader */
