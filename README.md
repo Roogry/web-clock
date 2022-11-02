@@ -1,7 +1,7 @@
 
 # Web Clock
 
-A brief description of what this project does and who it's for
+Displaying clock with date and time. This project was made as practicing webpack in "Belajar Fundamental Front-End Development" class by Dicoding
 
 
 
